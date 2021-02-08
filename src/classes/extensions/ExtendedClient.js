@@ -22,12 +22,12 @@ class ExtendedClient extends Client {
 
   updatePresence() {
     const numOfGuilds = this.guilds.cache.reduce((sum) => sum + 1, 0);
-    const presence = `${numOfGuilds} servers!`;
+    const presence = `over The Bois, and waiting to be used/being used.`;
 
     this.user.setPresence({
       activity: {
         name: presence,
-        type: ACTIVITY_TYPE.playing
+        type: ACTIVITY_TYPE.watching
       }
     })
       .then(() => {
