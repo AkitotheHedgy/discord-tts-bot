@@ -6,7 +6,7 @@ const MESSAGE_EMBED = {
   color: '#20B2AA',
   langThumbnail: 'https://i.imgur.com/QbNXO4q.jpg',
   langURL: 'https://github.com/moonstar-x/discord-tts-bot#language-support',
-  helpThumbnail: 'https://i.imgur.com/Tqnk48j.png',
+  helpThumbnail: 'https://cdn.discordapp.com/attachments/654511622752043021/808197970088558612/Line_2020_14.png',
   helpURL: 'https://github.com/moonstar-x/discord-tts-bot/issues'
 };
 
